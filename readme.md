@@ -6,7 +6,7 @@ To run the program you must navigate to the folder containing the program, using
 
 ## To run
 * To run the program, type readfat32 <image path> <command> in order to run the program
-Commands: info, list, get
+   >Commands: info, list, get
 
 ## Commands
 * info - Gives info about the formatted drive
